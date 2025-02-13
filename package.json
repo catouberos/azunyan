@@ -21,7 +21,7 @@
     "node": ">=20.14.0"
   },
   "dependencies": {
-    "@atproto/api": "^0.13.35",
+    "@atproto/api": "^0.14.0",
     "@atproto/identity": "^0.4.6",
     "@discord-player/extractor": "^7.1.0",
     "@iamtraction/google-translate": "github:iamtraction/google-translate",
